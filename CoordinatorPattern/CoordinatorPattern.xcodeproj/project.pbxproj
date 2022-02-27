@@ -16,6 +16,8 @@
 		B2E2ED4027CBCCD00031D393 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED3F27CBCCD00031D393 /* ThirdViewController.swift */; };
 		B2E2ED4227CBCD260031D393 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4127CBCD260031D393 /* FourthViewController.swift */; };
 		B2E2ED4427CBCD630031D393 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4327CBCD630031D393 /* FifthViewController.swift */; };
+		B2E2ED4627CBD08D0031D393 /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4527CBD08D0031D393 /* SixthViewController.swift */; };
+		B2E2ED4827CBD15D0031D393 /* SeventhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4727CBD15D0031D393 /* SeventhViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		B2E2ED3F27CBCCD00031D393 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		B2E2ED4127CBCD260031D393 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 		B2E2ED4327CBCD630031D393 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		B2E2ED4527CBD08D0031D393 /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
+		B2E2ED4727CBD15D0031D393 /* SeventhViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeventhViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				B2E2ED3F27CBCCD00031D393 /* ThirdViewController.swift */,
 				B2E2ED4127CBCD260031D393 /* FourthViewController.swift */,
 				B2E2ED4327CBCD630031D393 /* FifthViewController.swift */,
+				B2E2ED4527CBD08D0031D393 /* SixthViewController.swift */,
+				B2E2ED4727CBD15D0031D393 /* SeventhViewController.swift */,
 			);
 			path = CoordinatorPattern;
 			sourceTree = "<group>";
@@ -148,6 +154,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2E2ED4427CBCD630031D393 /* FifthViewController.swift in Sources */,
+				B2E2ED4627CBD08D0031D393 /* SixthViewController.swift in Sources */,
+				B2E2ED4827CBD15D0031D393 /* SeventhViewController.swift in Sources */,
 				B2E2ED3E27CBCB840031D393 /* SecondViewController.swift in Sources */,
 				B2E2ED2E27CBC9860031D393 /* ViewController.swift in Sources */,
 				B2E2ED4027CBCCD00031D393 /* ThirdViewController.swift in Sources */,
