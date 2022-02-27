@@ -18,6 +18,7 @@
 		B2E2ED4427CBCD630031D393 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4327CBCD630031D393 /* FifthViewController.swift */; };
 		B2E2ED4C27CBD3870031D393 /* TenthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4B27CBD3870031D393 /* TenthViewController.swift */; };
 		B2E2ED4E27CBD4170031D393 /* TwentyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4D27CBD4170031D393 /* TwentyViewController.swift */; };
+		B2E2ED4627CBD08D0031D393 /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4527CBD08D0031D393 /* SixthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		B2E2ED4327CBCD630031D393 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
 		B2E2ED4B27CBD3870031D393 /* TenthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenthViewController.swift; sourceTree = "<group>"; };
 		B2E2ED4D27CBD4170031D393 /* TwentyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwentyViewController.swift; sourceTree = "<group>"; };
+		B2E2ED4527CBD08D0031D393 /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				B2E2ED4327CBCD630031D393 /* FifthViewController.swift */,
 				B2E2ED4B27CBD3870031D393 /* TenthViewController.swift */,
 				B2E2ED4D27CBD4170031D393 /* TwentyViewController.swift */,
+				B2E2ED4527CBD08D0031D393 /* SixthViewController.swift */,
 			);
 			path = CoordinatorPattern;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2E2ED4427CBCD630031D393 /* FifthViewController.swift in Sources */,
+				B2E2ED4627CBD08D0031D393 /* SixthViewController.swift in Sources */,
 				B2E2ED3E27CBCB840031D393 /* SecondViewController.swift in Sources */,
 				B2E2ED2E27CBC9860031D393 /* ViewController.swift in Sources */,
 				B2E2ED4027CBCCD00031D393 /* ThirdViewController.swift in Sources */,
