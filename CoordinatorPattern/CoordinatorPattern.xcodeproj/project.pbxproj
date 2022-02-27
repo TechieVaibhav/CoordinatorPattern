@@ -16,6 +16,7 @@
 		B2E2ED4027CBCCD00031D393 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED3F27CBCCD00031D393 /* ThirdViewController.swift */; };
 		B2E2ED4227CBCD260031D393 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4127CBCD260031D393 /* FourthViewController.swift */; };
 		B2E2ED4427CBCD630031D393 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4327CBCD630031D393 /* FifthViewController.swift */; };
+		B2E2ED4C27CBD3870031D393 /* TenthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E2ED4B27CBD3870031D393 /* TenthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B2E2ED3F27CBCCD00031D393 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		B2E2ED4127CBCD260031D393 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 		B2E2ED4327CBCD630031D393 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		B2E2ED4B27CBD3870031D393 /* TenthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				B2E2ED3F27CBCCD00031D393 /* ThirdViewController.swift */,
 				B2E2ED4127CBCD260031D393 /* FourthViewController.swift */,
 				B2E2ED4327CBCD630031D393 /* FifthViewController.swift */,
+				B2E2ED4B27CBD3870031D393 /* TenthViewController.swift */,
 			);
 			path = CoordinatorPattern;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				B2E2ED3E27CBCB840031D393 /* SecondViewController.swift in Sources */,
 				B2E2ED2E27CBC9860031D393 /* ViewController.swift in Sources */,
 				B2E2ED4027CBCCD00031D393 /* ThirdViewController.swift in Sources */,
+				B2E2ED4C27CBD3870031D393 /* TenthViewController.swift in Sources */,
 				B2E2ED2C27CBC9860031D393 /* AppDelegate.swift in Sources */,
 				B2E2ED4227CBCD260031D393 /* FourthViewController.swift in Sources */,
 			);
